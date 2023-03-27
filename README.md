@@ -1,4 +1,4 @@
-# Movies App
+# Movies Lab
 # Features
  - It is open source movie tracker and movie finder where you can find movies, series, seasons, episodes.
  - With Movies app, you have movies and series information right at your fingertips!
